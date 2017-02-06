@@ -1,0 +1,9 @@
+Opened /dev/ttyC0_Real, fd=10Slave end name is '/dev/pts/1'
+Softlinking /dev/pts/1 to /dev/ttyC0.
+Master input baud rate is 15
+Master output baud rate is 15
+Input baud rate changed to 14
+Output baud rate changed to 14
+Creating thread 1.
+Hello, I'm Thread: 1.
+Hello, I'm Thread: 0.
